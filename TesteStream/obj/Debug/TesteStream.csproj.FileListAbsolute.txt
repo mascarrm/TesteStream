@@ -1,0 +1,5 @@
+E:\TesteStream\TesteStream\bin\Debug\TesteStream.exe.config
+E:\TesteStream\TesteStream\bin\Debug\TesteStream.exe
+E:\TesteStream\TesteStream\bin\Debug\TesteStream.pdb
+E:\TesteStream\TesteStream\obj\Debug\TesteStream.exe
+E:\TesteStream\TesteStream\obj\Debug\TesteStream.pdb

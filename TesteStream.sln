@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteStream", "TesteStream\TesteStream.csproj", "{55EE5DDA-EE96-4CC2-A3C4-9BE2AE4E5C00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteStream.UnitTest", "TesteStream.UnitTest\TesteStream.UnitTest.csproj", "{5B5816DB-AFEC-4DCF-8311-6DD45318DBAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55EE5DDA-EE96-4CC2-A3C4-9BE2AE4E5C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EE5DDA-EE96-4CC2-A3C4-9BE2AE4E5C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EE5DDA-EE96-4CC2-A3C4-9BE2AE4E5C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EE5DDA-EE96-4CC2-A3C4-9BE2AE4E5C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B5816DB-AFEC-4DCF-8311-6DD45318DBAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5816DB-AFEC-4DCF-8311-6DD45318DBAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5816DB-AFEC-4DCF-8311-6DD45318DBAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5816DB-AFEC-4DCF-8311-6DD45318DBAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

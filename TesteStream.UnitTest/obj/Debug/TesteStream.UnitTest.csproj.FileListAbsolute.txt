@@ -1,0 +1,7 @@
+E:\TesteStream\TesteStream.UnitTest\obj\Debug\TesteStream.UnitTest.csprojResolveAssemblyReference.cache
+E:\TesteStream\TesteStream.UnitTest\bin\Debug\TesteStream.UnitTest.dll
+E:\TesteStream\TesteStream.UnitTest\bin\Debug\TesteStream.UnitTest.pdb
+E:\TesteStream\TesteStream.UnitTest\bin\Debug\TesteStream.exe
+E:\TesteStream\TesteStream.UnitTest\bin\Debug\TesteStream.pdb
+E:\TesteStream\TesteStream.UnitTest\obj\Debug\TesteStream.UnitTest.dll
+E:\TesteStream\TesteStream.UnitTest\obj\Debug\TesteStream.UnitTest.pdb
